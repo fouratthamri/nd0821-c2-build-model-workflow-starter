@@ -9,6 +9,9 @@ In this project you will build such a pipeline.
 ## Weights & Biases Project Link:
 https://wandb.ai/fouratthamri/nyc_airbnb
 
+## Github Repo Link:
+https://github.com/fouratthamri/nd0821-c2-build-model-workflow-starter
+
 ## Table of contents
 
 - [Introduction](#build-an-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC)
